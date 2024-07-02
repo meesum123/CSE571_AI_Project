@@ -1,0 +1,9 @@
+
+ 
+ SIMULATION WITH : mediumClassic DirectionalGhost AlphaBetaAgent 
+ 
+ -------------------------------------------------------b''
+ 
+ SIMULATION WITH : mediumClassic DirectionalGhost AlphaBetaAgent 
+ 
+ -------------------------------------------------------b'4\n(1611211, 1613707)\n0.2590949535369873\n'

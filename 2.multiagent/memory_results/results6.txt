@@ -1,0 +1,9 @@
+
+ 
+ SIMULATION WITH : mediumClassic DirectionalGhost MCTS_Agent 
+ 
+ -------------------------------------------------------b''
+ 
+ SIMULATION WITH : mediumClassic DirectionalGhost MCTS_Agent 
+ 
+ -------------------------------------------------------b'4\n(6630714, 6631694)\n0.7111968994140625\n'

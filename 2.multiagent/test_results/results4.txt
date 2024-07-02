@@ -1,0 +1,5 @@
+
+ 
+ SIMULATION WITH : smallClassic DirectionalGhost AlphaBetaAgent 
+ 
+ -------------------------------------------------------b'4\nPacman died! Score: 705\nPacman died! Score: -365\nPacman died! Score: -366\nPacman died! Score: 701\nPacman died! Score: 480\nPacman died! Score: 91\nPacman emerges victorious! Score: 1332\nPacman died! Score: 91\nPacman died! Score: 233\nPacman emerges victorious! Score: 1758\nAverage Score: 466.0\nScores:        705.0, -365.0, -366.0, 701.0, 480.0, 91.0, 1332.0, 91.0, 233.0, 1758.0\nWin Rate:      2/10 (0.20)\nRecord:        Loss, Loss, Loss, Loss, Loss, Loss, Win, Loss, Loss, Win\n'

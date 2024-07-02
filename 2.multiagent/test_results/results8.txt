@@ -1,0 +1,28 @@
+
+ 
+ SIMULATION WITH : mediumClassic RandomGhost ExpectimaxAgent 
+ 
+
+Pacman emerges victorious! Score: 1931
+Pacman emerges victorious! Score: -1051
+Pacman died! Score: -374
+Pacman died! Score: -633
+Pacman emerges victorious! Score: 1152
+Average Score: 205.0
+Scores:        1931.0, -1051.0, -374.0, -633.0, 1152.0
+Win Rate:      3/5 (0.60)
+Record:        Win, Win, Loss, Loss, Win
+
+
+Pacman emerges victorious! Score: 1595
+Pacman emerges victorious! Score: 1554
+Pacman emerges victorious! Score: -49
+Pacman died! Score: -272
+Pacman emerges victorious! Score: -807
+Average Score: 404.2
+Scores:        1595.0, 1554.0, -49.0, -272.0, -807.0
+Win Rate:      4/5 (0.80)
+Record:        Win, Win, Win, Loss, Win
+
+
+ -------------------------------------------------------b''

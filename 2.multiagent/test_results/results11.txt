@@ -1,0 +1,5 @@
+
+ 
+ SIMULATION WITH : mediumClassic DirectionalGhost ExpectimaxAgent 
+ 
+ -------------------------------------------------------b'4\nPacman died! Score: 144\nPacman died! Score: 334\nPacman died! Score: 617\nPacman emerges victorious! Score: 1703\nPacman died! Score: 840\nPacman died! Score: 511\nPacman died! Score: -339\nPacman died! Score: 502\nPacman died! Score: 467\nPacman died! Score: 837\nAverage Score: 561.6\nScores:        144.0, 334.0, 617.0, 1703.0, 840.0, 511.0, -339.0, 502.0, 467.0, 837.0\nWin Rate:      1/10 (0.10)\nRecord:        Loss, Loss, Loss, Win, Loss, Loss, Loss, Loss, Loss, Loss\n'

@@ -1,0 +1,5 @@
+
+ 
+ SIMULATION WITH : smallClassic DirectionalGhost MCTS_Agent 
+ 
+ -------------------------------------------------------b'4\nPacman died! Score: -411\nPacman died! Score: -45\nPacman died! Score: -330\nPacman died! Score: -434\nPacman died! Score: 136\nPacman died! Score: -390\nPacman died! Score: -451\nPacman died! Score: -368\nPacman died! Score: -476\nPacman died! Score: -481\nAverage Score: -325.0\nScores:        -411.0, -45.0, -330.0, -434.0, 136.0, -390.0, -451.0, -368.0, -476.0, -481.0\nWin Rate:      0/10 (0.00)\nRecord:        Loss, Loss, Loss, Loss, Loss, Loss, Loss, Loss, Loss, Loss\n'

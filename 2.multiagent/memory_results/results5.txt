@@ -1,0 +1,9 @@
+
+ 
+ SIMULATION WITH : mediumClassic DirectionalGhost ExpectimaxAgent 
+ 
+ -------------------------------------------------------b''
+ 
+ SIMULATION WITH : mediumClassic DirectionalGhost ExpectimaxAgent 
+ 
+ -------------------------------------------------------b'4\n(5068265, 5070193)\n2.1905734539031982\n'

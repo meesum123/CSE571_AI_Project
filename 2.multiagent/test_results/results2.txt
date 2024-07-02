@@ -1,0 +1,20 @@
+
+ 
+ SIMULATION WITH : smallClassic RandomGhost ExpectimaxAgent 
+ 
+ -------------------------------------------------------b'4
+ -389
+ 1619
+ 1224
+ 1495
+ 1548
+ 291
+ 1349
+ 1120
+ 1120
+ 1719
+Average Score: 1109.6
+Scores:        -389.0, 1619.0, 1224.0, 1495.0, 1548.0, 291.0, 1349.0, 1120.0, 1120.0, 1719.0
+Win Rate:      8/10 (0.80)
+Record:        Loss, Win, Win, Win, Win, Loss, Win, Win, Win, Win
+'

@@ -1,0 +1,20 @@
+
+ 
+ SIMULATION WITH : smallClassic RandomGhost MCTS_Agent 
+ 
+ -------------------------------------------------------b''
+
+Pacman emerges victorious! Score: 1077
+Pacman emerges victorious! Score: 1151
+Pacman emerges victorious! Score: 1326
+Pacman emerges victorious! Score: 1326
+Pacman emerges victorious! Score: 1349
+Pacman died! Score: 95
+Pacman emerges victorious! Score: 1362
+Pacman emerges victorious! Score: 1326
+Pacman emerges victorious! Score: 1344
+Pacman emerges victorious! Score: 1334
+Average Score: 1169.0
+Scores:        1077.0, 1151.0, 1326.0, 1326.0, 1349.0, 95.0, 1362.0, 1326.0, 1344.0, 1334.0
+Win Rate:      9/10 (0.90)
+Record:        Win, Win, Win, Win, Win, Loss, Win, Win, Win, Win

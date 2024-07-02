@@ -1,0 +1,9 @@
+
+ 
+ SIMULATION WITH : smallClassic DirectionalGhost ExpectimaxAgent 
+ 
+ -------------------------------------------------------b''
+ 
+ SIMULATION WITH : smallClassic DirectionalGhost ExpectimaxAgent 
+ 
+ -------------------------------------------------------b'4\n(5142569, 5143229)\n1.6407434940338135\n'
